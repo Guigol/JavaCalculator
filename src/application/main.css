@@ -1,0 +1,62 @@
+#keys{
+	-fx-background-color:#C0C0C0 ;
+	 -fx-text-fill: black;
+}
+#keys:hover {
+    -fx-background-color: #ece5d8;
+    -fx-scale-y: 1.1;
+}
+
+#land {
+	-fx-background-color: #800080 ;
+	-fx-border-color: #C0C0C0 ;
+	-fx-border-radius: 4px;
+    -fx-border-width: 5 ; 
+	}
+
+#result {
+	-fx-background-color:yellow ;
+}
+
+#keys1:hover {
+    -fx-background-color: #f5e1a6;
+    -fx-scale-y: 1.1;
+}
+
+#keys0,#keys1 {
+	-fx-background-color:yellow ;
+	 -fx-text-fill: black;
+}
+
+#keys0:hover {
+    -fx-background-color: #f5e1a6;
+    -fx-scale-y: 1.1;
+}
+
+
+#key3{
+	-fx-background-color:black ;
+	 -fx-text-fill: yellow;
+}
+
+#key3:hover {
+     -fx-text-fill: #AE0000;
+    
+    -fx-scale-y: 1.1;
+}
+
+#key31 {
+	-fx-background-color:#c2c0bb ;
+	 -fx-text-fill: black;
+}
+
+
+#labelMem{
+	-fx-background-color:yellow ;
+	 -fx-text-fill: black;
+}
+
+#key31:hover {
+    -fx-background-color:#ece5d8;
+    -fx-scale-y: 1.1;
+}

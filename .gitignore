@@ -1,0 +1,14 @@
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### MAC OS ###
+*.DS_Store
+
+### MISC ###
+/bin/
